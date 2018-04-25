@@ -11,10 +11,14 @@ html {
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open sans', sans-serif;
     font-weight: 400;
-    line-height: 1.7;
-    color: #777;
-    padding: 3rem;
+    line-height: 1.6;
     box-sizing: border-box;
+    background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $color-grey-dark-2;
+
+    min-height: 100vh;
 }

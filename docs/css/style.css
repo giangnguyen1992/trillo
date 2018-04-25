@@ -1,1 +1,1 @@
-*,*::after,*::before{margin:0;padding:0;box-sizing:inherit}html{font-size:62.5%}body{font-family:'Lato', sans-serif;font-weight:400;line-height:1.7;color:#777;padding:3rem;box-sizing:border-box}
+*,*::after,*::before{margin:0;padding:0;box-sizing:inherit}html{font-size:62.5%}body{font-family:'Open sans', sans-serif;font-weight:400;line-height:1.6;box-sizing:border-box;background-image:linear-gradient(to right bottom, #f36, #BA265D);background-size:cover;background-repeat:no-repeat;color:#777;min-height:100vh}
